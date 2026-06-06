@@ -20,7 +20,7 @@ export default function BranchesPage() {
         <h1 className="font-serif text-3xl md:text-5xl font-bold text-espresso">Our Branches</h1>
         <div className="w-12 h-0.5 bg-gold mx-auto" />
         <p className="text-xs md:text-sm text-espresso/60 font-light leading-relaxed">
-          Z House Café has multiple spots in Karachi, each carrying our signature warm vibe, comfy workspaces, and freshly ground craft espresso. Find the nearest branch.
+          ZED's Kitchen Café has multiple spots in Karachi, each carrying our signature warm vibe, comfy workspaces, and freshly ground craft espresso. Find the nearest branch.
         </p>
       </div>
 

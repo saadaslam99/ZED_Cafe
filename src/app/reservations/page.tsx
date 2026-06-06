@@ -37,7 +37,7 @@ function ReservationPageContent() {
   };
 
   const getWhatsAppMessage = () => {
-    const text = `*TABLE RESERVATION REQUEST - Z HOUSE CAFÉ*\n\n` +
+    const text = `*TABLE RESERVATION REQUEST - ZED's Kitchen CAFÉ*\n\n` +
       `- *Branch:* ${activeBranch.name}\n` +
       `- *Guest Name:* ${name}\n` +
       `- *Phone:* ${phone}\n` +

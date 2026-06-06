@@ -48,18 +48,18 @@ export interface Review {
 }
 
 export const CAFE_METADATA = {
-  name: "Z House",
+  name: "ZED's Kitchen",
   tagline: "Good Coffee. Great Food. Better Moments.",
   heroSubheading: "A cozy space to work, meet, relax and enjoy your favorite flavors.",
-  aboutShort: "Z House Café is more than just a café. It's a place where great food, cozy ambiance and real conversations come together. Whether you're here for a quick coffee, a long work session, or a memorable evening — you're home.",
-  aboutLong: "Z House Café is more than just a place that sells coffee. Located in the heart of Karachi, we designed it to feel like an extension of your own living room or workspace. Whether you are looking for a quiet corner to focus with fast Wi-Fi, a spacious table for a team meeting, or a warm setting for an evening date, Z House has a spot tailored for you. Our menu features premium specialty coffee alongside fresh, comforting meals made to order.",
+  aboutShort: "ZED's Kitchen Café is more than just a café. It's a place where great food, cozy ambiance and real conversations come together. Whether you're here for a quick coffee, a long work session, or a memorable evening — you're home.",
+  aboutLong: "ZED's Kitchen Café is more than just a place that sells coffee. Located in the heart of Karachi, we designed it to feel like an extension of your own living room or workspace. Whether you are looking for a quiet corner to focus with fast Wi-Fi, a spacious table for a team meeting, or a warm setting for an evening date, ZED's Kitchen has a spot tailored for you. Our menu features premium specialty coffee alongside fresh, comforting meals made to order.",
   socials: {
     instagram: "https://www.instagram.com/zeds.khi/",
     facebook: "https://facebook.com/zhousecafe",
     whatsappDefault: "+923001234567",
     bankDetails: {
       bankName: "Meezan Bank Ltd",
-      accountTitle: "Z House Cafe",
+      accountTitle: "ZED's Kitchen Cafe",
       accountNumber: "0234-010203040-5",
       iban: "PK79MEZN0002340102030405"
     }
@@ -682,7 +682,7 @@ export const REVIEWS: Review[] = [
     id: "2",
     name: "Ayesha Khan",
     rating: 5,
-    text: "Absolutely love the vibe at Z House. The Wi-Fi is super fast, and the Signature Latte is the best I've had in Karachi. Perfect place for remote work.",
+    text: "Absolutely love the vibe at ZED's Kitchen. The Wi-Fi is super fast, and the Signature Latte is the best I've had in Karachi. Perfect place for remote work.",
     source: "Google Reviews"
   },
   {

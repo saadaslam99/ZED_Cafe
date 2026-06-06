@@ -5,10 +5,10 @@ import { Footer } from "@/components/Footer";
 import { CartProvider } from "@/context/CartContext";
 
 export const metadata: Metadata = {
-  title: "Z House Café | Coffee, Comfort & Conversations",
-  description: "Step into Z House Café online. Enjoy specialty coffee, comforting meals, cozy workspaces, and friendly dining across Karachi.",
+  title: "ZED's Kitchen Café | Coffee, Comfort & Conversations",
+  description: "Step into ZED's Kitchen Café online. Enjoy specialty coffee, comforting meals, cozy workspaces, and friendly dining across Karachi.",
   keywords: "cafe, coffee shop, Karachi, DHA Phase 6, Clifton, workspace, meeting, food delivery, reserve table",
-  authors: [{ name: "Z House Cafe" }],
+  authors: [{ name: "ZED's Kitchen Cafe" }],
 };
 
 export default function RootLayout({

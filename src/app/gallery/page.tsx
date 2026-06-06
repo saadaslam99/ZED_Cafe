@@ -50,7 +50,7 @@ export default function GalleryPage() {
         <h1 className="font-serif text-3xl md:text-5xl font-bold text-espresso">Visual Experience</h1>
         <div className="w-12 h-0.5 bg-gold mx-auto" />
         <p className="text-xs md:text-sm text-espresso/60 font-light leading-relaxed">
-          Step inside Z House Café before you visit. Browse through real photography of our spaces, freshly brewed beverages, and kitchen highlights.
+          Step inside ZED's Kitchen Café before you visit. Browse through real photography of our spaces, freshly brewed beverages, and kitchen highlights.
         </p>
       </div>
 

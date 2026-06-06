@@ -80,7 +80,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0">
           <img
             src="/images/hero_bg.png"
-            alt="Z House Cafe Ambiance"
+            alt="ZED's Kitchen Cafe Ambiance"
             className="w-full h-full object-cover"
           />
           {/* Linear gradient overlay from left to right */}
@@ -362,7 +362,7 @@ export default function Home() {
                   Our Story
                 </span>
                 <p className="text-xs md:text-[15px] text-[#FFFDF8]/75 leading-relaxed font-light">
-                  Z House Café is more than just a café. It&apos;s a place where great food, cozy ambiance and real conversations come together. Whether you&apos;re here for a quick coffee, a long work session, or a memorable evening — you&apos;re home.
+                  ZED's Kitchen Café is more than just a café. It&apos;s a place where great food, cozy ambiance and real conversations come together. Whether you&apos;re here for a quick coffee, a long work session, or a memorable evening — you&apos;re home.
                 </p>
               </div>
               <Link

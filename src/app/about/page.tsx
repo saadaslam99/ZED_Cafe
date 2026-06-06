@@ -25,13 +25,13 @@ export default function AboutPage() {
             {CAFE_METADATA.aboutLong}
           </p>
           <p className="text-xs md:text-sm text-espresso/70 leading-relaxed font-light">
-            Every wooden texture, glowing amber light, and comfy corner armchair in our outlets was handpicked. We want Z House to feel familiar and grounding in the middle of Karachi’s fast pace.
+            Every wooden texture, glowing amber light, and comfy corner armchair in our outlets was handpicked. We want ZED's Kitchen to feel familiar and grounding in the middle of Karachi’s fast pace.
           </p>
         </div>
         <div className="lg:col-span-5 relative h-80 rounded-lg overflow-hidden border border-gold-light/25 shadow-md">
           <img
             src="/images/ambiance_cozy_corner.png"
-            alt="Z House Cafe Ambiance"
+            alt="ZED's Kitchen Cafe Ambiance"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-espresso/10" />
